@@ -1,3 +1,12 @@
 # Odoo-Hackaton3
 
-<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Exploratory Research Presentation" data-url="31om1jyx-new-project" data-w="1366" data-full-h="false" data-h="768" data-domain="my"></div><p style="width:223px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Made with <a href="https://www.visme.co/presentation-software?utm_source=CTA&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme Presentation Maker</a></p>
+<section data-markdown>
+  <textarea data-template>
+    ## Slide 1
+    A paragraph with some text and a [link](https://hakim.se).
+    ---
+    ## Slide 2
+    ---
+    ## Slide 3
+  </textarea>
+</section>
