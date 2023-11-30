@@ -19,33 +19,12 @@ OQuest est une application mobile conçue pour apporter du divertissement, de l'
 The project uses the following technologies:
 - **React Native**
 - **Flask**
-- ****
+- **SQLite**
 
 # Usage
-
-**Before starting**, please replace the `FORTYTWO_ID`, `FORTYTWO_SECRET` and `AUTH_CALLBACK` variables in `stage.dev.env` with your own (from the 42 API).<br>
-Then, run the following command for the back and the front:
-
 ```bash
-docker-compose up --build
+npm i && npm run start
 ```
-
-If everything went well, you should be able to access the website at `http://localhost:8080`.
-> If you'd like to modify additional settings, please feel free to do so in the others environment files.
-
-> Upon first launch, you will be asked to authenticate with your 42 account.
-
-# Docs
-
-**NESTJS** documentation is available at `https://docs.nestjs.com/`.<br>
-**SWAGGER** (OAS 3.0) documentation is available at `https://swagger.io/specification/`. (I Heavily recommend the use of https://editor.swagger.io)<br>
-**TYPEORM** documentation is available at `https://typeorm.io/`.<br>
-# Screenshots
-
-![login](screen/login.png)
-![home](screen/home.png)
-![chat](screen/chat.png)
-![add](screen/add.png)
 
 ![Project Image](forReadme/screen1.png)
 ![Project Image](forReadme/screen2.png)
